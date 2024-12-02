@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 150%;
+}
+
+body {
+  background-color: #F5F4F0;
+}
+
+div {
+  box-sizing: border-box;
+  width: 1120px;
+  padding: 24px;
+  border-radius: 24px;
+}
+
+div img {
+  border-radius: 28px;
+  width: 100%;
+  object-fit: cover;
+  margin-top: 44px;
+}
+
+section img {
+  height: 375px;
+}
